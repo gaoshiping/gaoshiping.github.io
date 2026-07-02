@@ -1,152 +1,237 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Shiping Gao",
+    "label": "Incoming PhD Student in Computer Science and Engineering",
+    "email": "shiping@umich.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://gaoshiping.github.io",
+    "summary": "Incoming PhD student in Computer Science and Engineering at the University of Michigan. Research interests include NLP, LLMs, RLHF, reward hacking, fine-grained reward modeling, and LLM reasoning.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Ann Arbor",
       "countryCode": "US",
-      "region": ""
+      "region": "MI"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Shiping Gao",
+        "url": "https://scholar.google.com/citations?user=o4WHYTsAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "gaoshiping",
+        "url": "https://github.com/gaoshiping"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "University of California, Davis",
+      "position": "Research Intern",
+      "startDate": "Jul 2025",
+      "endDate": "Dec 2025",
+      "summary": "Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization. Supervised by Prof. Lifu Huang.",
+      "highlights": [
+        "Developed IPVRM with value-function-style supervision on every prefix.",
+        "Introduced distribution-level temporal-difference advantages for dense credit assignment."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Sun Yat-Sen University",
+      "position": "Research Team Member",
+      "startDate": "Oct 2024",
+      "endDate": "Jan 2025",
+      "summary": "Discriminative Policy Optimization for Token-Level Reward Models. Supervised by Prof. Xiaojun Quan.",
+      "highlights": [
+        "Designed Q-RM, a token-level reward model without fine-grained annotations.",
+        "Integrated Q-RM into PPO and REINFORCE for reasoning tasks."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Sun Yat-Sen University",
+      "position": "Principal Investigator",
+      "startDate": "Jul 2024",
+      "endDate": "Oct 2024",
+      "summary": "Advantage-Guided Distillation for Preference Alignment in Small Language Models. Supervised by Prof. Xiaojun Quan.",
+      "highlights": [
+        "Designed DCKD, ADPA, and ADPA+ for small-model preference alignment.",
+        "Improved alignment performance while reducing sample complexity."
+      ]
+    },
+    {
+      "company": "Sun Yat-Sen University",
+      "position": "Research Team Member",
+      "startDate": "Jul 2024",
+      "endDate": "Sep 2024",
+      "summary": "Edit-Wise Preference Optimization for Grammatical Error Correction. Supervised by Prof. Xiaojun Quan.",
+      "highlights": [
+        "Proposed EPO with edit-aware token weighting.",
+        "Built annotation-free preference data construction for GEC."
+      ]
+    },
+    {
+      "company": "Lanzhou University",
+      "position": "Undergraduate Thesis Researcher",
+      "startDate": "Dec 2022",
+      "endDate": "May 2023",
+      "summary": "Research on Chinese Text Correction System Based on Deep Learning. Supervised by Prof. Binbin Yong.",
+      "highlights": [
+        "Designed a Chinese text correction system for spelling, grammar, and semantic errors.",
+        "Proposed AutoCscError for realistic pseudo-data generation."
+      ]
+    },
+    {
+      "company": "Lanzhou University",
+      "position": "Research Team Member",
+      "startDate": "May 2021",
+      "endDate": "Oct 2021",
+      "summary": "A Novel Dynamic Interpolation Method Based on Temporal and Spatial Correlations. Supervised by Prof. Zhili Zhao.",
+      "highlights": [
+        "Proposed dynamic spatiotemporal interpolation for environmental and meteorological monitoring."
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "area": "PhD in Computer Science and Engineering",
+      "studyType": "",
+      "startDate": "Sep 2026",
+      "endDate": "Sep 2026 - Jun 2030 (Expected)",
+      "gpa": null,
+      "courses": [
+        "Advisor: Silviu Pitis"
+      ]
+    },
+    {
+      "institution": "Sun Yat-Sen University",
+      "area": "MPhil in Computer Science and Technology",
+      "studyType": "",
+      "startDate": "Sep 2023",
+      "endDate": "Sep 2023 - Jun 2026 (Expected)",
+      "gpa": "89.84/100",
+      "courses": []
+    },
+    {
+      "institution": "Lanzhou University",
+      "area": "BEng in Computer Science and Technology",
+      "studyType": "",
+      "startDate": "Sep 2019",
+      "endDate": "Sep 2019 - Jul 2023",
+      "gpa": "90.17/100",
+      "courses": [
+        "Ranking: 8/232 (top 3.5%)"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "Bash",
+        "LaTeX",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks and Libraries",
+      "keywords": [
+        "Transformers",
+        "Ray",
+        "VeRL",
+        "LLaMA-Factory",
+        "Datasets",
+        "Accelerate",
+        "DeepSpeed",
+        "vLLM"
+      ]
+    },
+    {
+      "name": "Tools and Platforms",
+      "keywords": [
+        "Git",
+        "Docker",
+        "Weights & Biases",
+        "SwanLab",
+        "TensorBoard",
+        "Slurm",
+        "CUDA"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "NLP",
+        "LLMs",
+        "RLHF",
+        "Reward Hacking",
+        "Fine-Grained Reward Modeling",
+        "LLM Reasoning"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026-07-01",
+      "website": "https://arxiv.org/abs/2604.13197",
+      "summary": "S. Gao, H. Chen, X. Quan, Q. Wang, and L. Huang."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Discriminative Policy Optimization for Token-Level Reward Models",
+      "publisher": "ICML 2025",
+      "releaseDate": "2025-07-01",
+      "website": "https://arxiv.org/abs/2505.23363",
+      "summary": "H. Chen, T. Yang, S. Gao, R. Chen, X. Quan, H. Tian, and T. Yao."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Advantage-Guided Distillation for Preference Alignment in Small Language Models",
+      "publisher": "ICLR 2025 Spotlight",
+      "releaseDate": "2025-04-01",
+      "website": "https://arxiv.org/abs/2502.17927",
+      "summary": "S. Gao, F. Wan, J. Guo, X. Quan, and Q. Wang."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Edit-Wise Preference Optimization for Grammatical Error Correction",
+      "publisher": "COLING 2025",
+      "releaseDate": "2025-01-01",
+      "website": "https://aclanthology.org/2025.coling-main.229/",
+      "summary": "J. Liang, H. Yang, S. Gao, and X. Quan."
+    },
+    {
+      "name": "Self-Evolution Fine-Tuning for Policy Optimization",
+      "publisher": "Findings of EMNLP 2024",
+      "releaseDate": "2024-11-01",
+      "website": "https://arxiv.org/abs/2406.10813",
+      "summary": "R. Chen, J. Liang, S. Gao, F. Wan, and X. Quan."
+    },
+    {
+      "name": "A Novel Dynamic Interpolation Method Based on Temporal and Spatial Correlations",
+      "publisher": "Applied Intelligence",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": "S. Gao, D. He, Z. Zhang, X. Tang, and Z. Zhao."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Artificial Neural Networks and Mathematical Principles of Reinforcement Learning",
+      "institution": "Sun Yat-Sen University",
+      "date": "2025-04-01",
+      "role": "Teaching Assistant",
+      "description": "Assisted undergraduates in Artificial Neural Networks and instructed Mathematical Principles of RL for graduate students."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
