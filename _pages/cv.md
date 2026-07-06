@@ -19,7 +19,7 @@ Education
 ======
 
 - **University of Michigan**, Ann Arbor, MI, USA<br>
-  Incoming PhD student in Computer Science and Engineering, advised by Prof. Silviu Pitis<br>
+  PhD student in Computer Science and Engineering, advised by Prof. Silviu Pitis<br>
   Sep 2026 - Jun 2030 (Expected)
 
 - **Sun Yat-Sen University**, Guangzhou, China<br>

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Computer Science and Engineering at the University of Michigan, advised by Prof. Silviu Pitis. My research interests include natural language processing, large language models, RLHF, reward hacking, fine-grained reward modeling, and LLM reasoning.
+I am a PhD student in Computer Science and Engineering at the University of Michigan, advised by Prof. Silviu Pitis. My research interests include natural language processing, large language models, RLHF, reward hacking, fine-grained reward modeling, and LLM reasoning.
 
 Before joining UMich, I completed an MPhil in Computer Science and Technology at Sun Yat-Sen University, advised by Prof. Xiaojun Quan, and a BEng in Computer Science and Technology at Lanzhou University.
 

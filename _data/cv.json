@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Shiping Gao",
-    "label": "Incoming PhD Student in Computer Science and Engineering",
+    "label": "PhD Student in Computer Science and Engineering",
     "email": "shiping@umich.edu",
     "phone": "",
     "website": "https://gaoshiping.github.io",
-    "summary": "Incoming PhD student in Computer Science and Engineering at the University of Michigan. Research interests include NLP, LLMs, RLHF, reward hacking, fine-grained reward modeling, and LLM reasoning.",
+    "summary": "PhD student in Computer Science and Engineering at the University of Michigan. Research interests include NLP, LLMs, RLHF, reward hacking, fine-grained reward modeling, and LLM reasoning.",
     "location": {
       "address": "",
       "postalCode": "",
