@@ -19,8 +19,8 @@ My work studies how language models learn from preferences and feedback, with an
 Education
 ======
 
-- **University of Michigan**, PhD in Computer Science and Engineering, Sep 2026 - Jun 2030 (Expected)
-- **Sun Yat-Sen University**, MPhil in Computer Science and Technology, Sep 2023 - Jun 2026 (Expected)
+- **University of Michigan**, PhD in Computer Science and Engineering, Aug 2026 - Jun 2030 (Expected)
+- **Sun Yat-Sen University**, MPhil in Computer Science and Technology, Sep 2023 - Jun 2026
 - **Lanzhou University**, BEng in Computer Science and Technology, Sep 2019 - Jul 2023
 
 Publications

@@ -20,11 +20,11 @@ Education
 
 - **University of Michigan**, Ann Arbor, MI, USA<br>
   PhD student in Computer Science and Engineering, advised by Prof. Silviu Pitis<br>
-  Sep 2026 - Jun 2030 (Expected)
+  Aug 2026 - Jun 2030 (Expected)
 
 - **Sun Yat-Sen University**, Guangzhou, China<br>
   MPhil in Computer Science and Technology, GPA: 89.84/100<br>
-  Sep 2023 - Jun 2026 (Expected)
+  Sep 2023 - Jun 2026
 
 - **Lanzhou University**, Lanzhou, China<br>
   BEng in Computer Science and Technology, GPA: 90.17/100, ranking: 8/232 (top 3.5%)<br>
