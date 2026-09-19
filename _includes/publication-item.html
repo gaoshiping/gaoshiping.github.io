@@ -3,7 +3,7 @@
 <div class="pub-item">
   <a class="pub-title" href="{{ base_path }}{{ post.url }}">{{ title }}</a>
   {% if post.authors %}<div class="pub-authors">{{ post.authors | markdownify | remove: "<p>" | remove: "</p>" }}</div>{% endif %}
-  <div class="pub-venue">{{ post.venue }}, {{ post.date | date: "%Y" }}{% if post.note %} <span class="pub-note">{{ post.note }}</span>{% endif %}</div>
+  <div class="pub-venue">{{ post.venue }}, {{ post.date | date: "%Y" }}{% if post.note %} <span class="pub-note{% if post.note_highlight %} pub-note--highlight{% endif %}">{{ post.note }}</span>{% endif %}</div>
   {% if post.paperurl or post.codeurl %}
   <div class="pub-links">
     {% if post.paperurl %}<a href="{{ post.paperurl }}">[Paper]</a>{% endif %}
