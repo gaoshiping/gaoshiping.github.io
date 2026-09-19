@@ -26,24 +26,11 @@ Education
 Publications
 ======
 
-(Full list on the [Publications](/publications/) page and [Google Scholar](https://scholar.google.com/citations?user=o4WHYTsAAAAJ).)
+Also on [Google Scholar](https://scholar.google.com/citations?user=o4WHYTsAAAAJ). Click a title for details and BibTeX.
 
-- **Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization.**<br>
-  **Shiping Gao**, Hongzhan Chen, Xiaojun Quan, Qifan Wang, Lifu Huang. *ICML 2026*.
-- **Adaptive Boundaries: Context-Aware Detection for Synthetic Text.**<br>
-  H. Li, R. Ni, Haihui Yang, **Shiping Gao**, Y. Liu, Xiaojun Quan. *EMNLP 2026*.
-- **Stabilizing Policy Optimization via Logits Convexity.**<br>
-  Hongzhan Chen, Tao Yang, Yuhua Zhu, **Shiping Gao**, Xiaojun Quan, Ting Yao. *arXiv preprint arXiv:2603.00963, 2026* (under review at NeurIPS 2026).
-- **Discriminative Policy Optimization for Token-Level Reward Models.**<br>
-  Hongzhan Chen, Tao Yang, **Shiping Gao**, Ruijun Chen, Xiaojun Quan, Hongtao Tian, Ting Yao. *ICML 2025*.
-- **Advantage-Guided Distillation for Preference Alignment in Small Language Models.**<br>
-  **Shiping Gao**, Fanqi Wan, Jiajian Guo, Xiaojun Quan, Qifan Wang. *ICLR 2025 (Spotlight, top 5.1%)*.
-- **Edit-Wise Preference Optimization for Grammatical Error Correction.**<br>
-  Jiehao Liang, Haihui Yang, **Shiping Gao**, Xiaojun Quan. *COLING 2025 (Main)*.
-- **Self-Evolution Fine-Tuning for Policy Optimization.**<br>
-  Ruijun Chen, Jiehao Liang, **Shiping Gao**, Fanqi Wan, Xiaojun Quan. *Findings of EMNLP 2024*.
-- **A Novel Dynamic Interpolation Method Based on Both Temporal and Spatial Correlations.**<br>
-  **Shiping Gao**, Dongjie He, Zhouzhuo Zhang, Xiaoqian Tang, Zhili Zhao. *Applied Intelligence, 2022*.
+<div class="pub-list">{% for post in site.publications reversed %}
+  {% include publication-item.html %}
+{% endfor %}</div>
 
 Academic Service
 ======

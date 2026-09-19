@@ -8,6 +8,7 @@ excerpt: "Preference-alignment distillation for small language models using adva
 date: 2025-04-01
 venue: "13th International Conference on Learning Representations (ICLR 2025)"
 status: "Accepted at"
+note: "Spotlight, top 5.1%"
 paperurl: "https://arxiv.org/abs/2502.17927"
 codeurl: "https://github.com/gaoshiping/ADPA"
 citation: "S. Gao, F. Wan, J. Guo, X. Quan, and Q. Wang. &quot;Advantage-Guided Distillation for Preference Alignment in Small Language Models.&quot; <i>ICLR 2025</i>, Spotlight, top 5.1%."

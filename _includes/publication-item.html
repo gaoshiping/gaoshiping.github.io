@@ -1,0 +1,13 @@
+{% include base_path %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+<div class="pub-item">
+  <a class="pub-title" href="{{ base_path }}{{ post.url }}">{{ title }}</a>
+  {% if post.authors %}<div class="pub-authors">{{ post.authors | markdownify | remove: "<p>" | remove: "</p>" }}</div>{% endif %}
+  <div class="pub-venue">{{ post.venue }}, {{ post.date | date: "%Y" }}{% if post.note %} <span class="pub-note">{{ post.note }}</span>{% endif %}</div>
+  {% if post.paperurl or post.codeurl %}
+  <div class="pub-links">
+    {% if post.paperurl %}<a href="{{ post.paperurl }}">[Paper]</a>{% endif %}
+    {% if post.codeurl %}<a href="{{ post.codeurl }}">[Code]</a>{% endif %}
+  </div>
+  {% endif %}
+</div>

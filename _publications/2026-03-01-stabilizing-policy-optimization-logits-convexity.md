@@ -6,7 +6,8 @@ category: preprints
 permalink: /publication/2026-stabilizing-policy-optimization-logits-convexity
 excerpt: "Stabilizing reinforcement learning for language models by exploiting the convexity of policy logits."
 date: 2026-03-01
-venue: "arXiv preprint arXiv:2603.00963 (under review at NeurIPS 2026)"
+venue: "arXiv preprint arXiv:2603.00963"
+note: "Under review at NeurIPS 2026"
 status: "Preprint,"
 paperurl: "https://arxiv.org/abs/2603.00963"
 citation: "H. Chen, T. Yang, Y. Zhu, S. Gao, X. Quan, and T. Yao. &quot;Stabilizing Policy Optimization via Logits Convexity.&quot; <i>arXiv preprint arXiv:2603.00963</i>, 2026. Submitted to NeurIPS 2026."

@@ -25,12 +25,12 @@ Publications in NLP, LLM alignment, reward modeling, reasoning, and applied mach
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include publication-item.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include publication-item.html %}
   {% endfor %}
 {% endif %}
 
