@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ base_path }}/files/CV-Shiping-Gao.pdf" class="btn btn--primary"><i class="fa fa-file-pdf" aria-hidden="true"></i> Download CV (PDF, updated Aug 2026)</a></p>
+
 Contact
 ======
 
@@ -20,7 +22,7 @@ Education
 
 - **University of Michigan**, Ann Arbor, MI, USA<br>
   PhD student in Computer Science and Engineering, advised by Prof. Silviu Pitis<br>
-  Aug 2026 - Jun 2030 (Expected)
+  Sep 2026 - Jun 2030 (Expected)
 
 - **Sun Yat-Sen University**, Guangzhou, China<br>
   MPhil in Computer Science and Technology, GPA: 89.84/100<br>
@@ -49,7 +51,7 @@ Research Experience
 
 **Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization**<br>
 Internship, University of California, Davis; supervised by Prof. Lifu Huang<br>
-Jul 2025 - Dec 2025
+Jul 2025 - Jan 2026
 
 - Developed IPVRM, a prefix-level implicit reward model with value-function-style supervision on every prefix.
 - Integrated distribution-level temporal-difference advantages into reinforcement learning for dense credit assignment.
@@ -87,6 +89,11 @@ Research team member, Lanzhou University; supervised by Prof. Zhili Zhao<br>
 May 2021 - Oct 2021
 
 - Proposed a dynamic spatiotemporal interpolation method for environmental and meteorological monitoring.
+
+Academic Service
+======
+
+- **Reviewer:** NeurIPS 2026, EMNLP 2026
 
 Teaching
 ======

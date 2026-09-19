@@ -1,5 +1,6 @@
 ---
 title: "A Novel Dynamic Interpolation Method Based on Temporal and Spatial Correlations"
+authors: "**Shiping Gao**, Dongjie He, Zhouzhuo Zhang, Xiaoqian Tang, Zhili Zhao"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-dynamic-interpolation

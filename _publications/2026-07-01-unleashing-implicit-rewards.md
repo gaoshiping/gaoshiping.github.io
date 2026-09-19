@@ -1,5 +1,6 @@
 ---
 title: "Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization"
+authors: "**Shiping Gao**, Hongzhan Chen, Xiaojun Quan, Qifan Wang, Lifu Huang"
 collection: publications
 category: conferences
 permalink: /publication/2026-unleashing-implicit-rewards

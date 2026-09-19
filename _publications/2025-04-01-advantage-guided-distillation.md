@@ -1,5 +1,6 @@
 ---
 title: "Advantage-Guided Distillation for Preference Alignment in Small Language Models"
+authors: "**Shiping Gao**, Fanqi Wan, Jiajian Guo, Xiaojun Quan, Qifan Wang"
 collection: publications
 category: conferences
 permalink: /publication/2025-advantage-guided-distillation

@@ -29,5 +29,6 @@ The local site will be available at `http://localhost:4000`.
 - Site-wide metadata lives in `_config.yml`.
 - Top navigation lives in `_data/navigation.yml`.
 - Main pages live in `_pages/`.
-- Publication entries live in `_publications/`.
+- Publication entries live in `_publications/` (each has an `authors` field shown on the Publications and CV pages).
+- The downloadable CV PDF lives at `files/CV-Shiping-Gao.pdf`; replace that file to update it.
 - Teaching entries live in `_teaching/`.

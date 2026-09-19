@@ -31,7 +31,7 @@
       "company": "University of California, Davis",
       "position": "Research Intern",
       "startDate": "Jul 2025",
-      "endDate": "Dec 2025",
+      "endDate": "Jan 2026",
       "summary": "Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization. Supervised by Prof. Lifu Huang.",
       "highlights": [
         "Developed IPVRM with value-function-style supervision on every prefix.",
@@ -98,8 +98,8 @@
       "institution": "University of Michigan",
       "area": "PhD in Computer Science and Engineering",
       "studyType": "",
-      "startDate": "Aug 2026",
-      "endDate": "Aug 2026 - Jun 2030 (Expected)",
+      "startDate": "Sep 2026",
+      "endDate": "Sep 2026 - Jun 2030 (Expected)",
       "gpa": null,
       "courses": [
         "Advisor: Silviu Pitis"
@@ -185,42 +185,56 @@
       "publisher": "ICML 2026",
       "releaseDate": "2026-07-01",
       "website": "https://arxiv.org/abs/2604.13197",
-      "summary": "S. Gao, H. Chen, X. Quan, Q. Wang, and L. Huang."
+      "summary": "Shiping Gao, Hongzhan Chen, Xiaojun Quan, Qifan Wang, Lifu Huang."
+    },
+    {
+      "name": "Adaptive Boundaries: Context-Aware Detection for Synthetic Text",
+      "publisher": "EMNLP 2026",
+      "releaseDate": "2026-11-01",
+      "website": "",
+      "summary": "H. Li, R. Ni, Haihui Yang, Shiping Gao, Y. Liu, Xiaojun Quan."
+    },
+    {
+      "name": "Stabilizing Policy Optimization via Logits Convexity",
+      "publisher": "arXiv preprint arXiv:2603.00963 (under review at NeurIPS 2026)",
+      "releaseDate": "2026-03-01",
+      "website": "https://arxiv.org/abs/2603.00963",
+      "summary": "Hongzhan Chen, Tao Yang, Yuhua Zhu, Shiping Gao, Xiaojun Quan, Ting Yao."
     },
     {
       "name": "Discriminative Policy Optimization for Token-Level Reward Models",
       "publisher": "ICML 2025",
       "releaseDate": "2025-07-01",
       "website": "https://arxiv.org/abs/2505.23363",
-      "summary": "H. Chen, T. Yang, S. Gao, R. Chen, X. Quan, H. Tian, and T. Yao."
+      "summary": "Hongzhan Chen, Tao Yang, Shiping Gao, Ruijun Chen, Xiaojun Quan, Hongtao Tian, Ting Yao."
     },
     {
       "name": "Advantage-Guided Distillation for Preference Alignment in Small Language Models",
       "publisher": "ICLR 2025 Spotlight",
       "releaseDate": "2025-04-01",
       "website": "https://arxiv.org/abs/2502.17927",
-      "summary": "S. Gao, F. Wan, J. Guo, X. Quan, and Q. Wang."
+      "summary": "Shiping Gao, Fanqi Wan, Jiajian Guo, Xiaojun Quan, Qifan Wang."
     },
     {
       "name": "Edit-Wise Preference Optimization for Grammatical Error Correction",
       "publisher": "COLING 2025",
       "releaseDate": "2025-01-01",
       "website": "https://aclanthology.org/2025.coling-main.229/",
-      "summary": "J. Liang, H. Yang, S. Gao, and X. Quan."
+      "summary": "Jiehao Liang, Haihui Yang, Shiping Gao, Xiaojun Quan."
     },
     {
       "name": "Self-Evolution Fine-Tuning for Policy Optimization",
       "publisher": "Findings of EMNLP 2024",
       "releaseDate": "2024-11-01",
       "website": "https://arxiv.org/abs/2406.10813",
-      "summary": "R. Chen, J. Liang, S. Gao, F. Wan, and X. Quan."
+      "summary": "Ruijun Chen, Jiehao Liang, Shiping Gao, Fanqi Wan, Xiaojun Quan."
     },
     {
-      "name": "A Novel Dynamic Interpolation Method Based on Temporal and Spatial Correlations",
+      "name": "A Novel Dynamic Interpolation Method Based on Both Temporal and Spatial Correlations",
       "publisher": "Applied Intelligence",
       "releaseDate": "2022-01-01",
-      "website": "",
-      "summary": "S. Gao, D. He, Z. Zhang, X. Tang, and Z. Zhao."
+      "website": "https://dl.acm.org/doi/abs/10.1007/s10489-022-03815-7",
+      "summary": "Shiping Gao, Dongjie He, Zhouzhuo Zhang, Xiaoqian Tang, Zhili Zhao."
     }
   ],
   "presentations": [],
@@ -233,5 +247,23 @@
       "description": "Assisted undergraduates in Artificial Neural Networks and instructed Mathematical Principles of RL for graduate students."
     }
   ],
-  "portfolio": []
+  "portfolio": [],
+  "volunteer": [
+    {
+      "organization": "NeurIPS 2026",
+      "position": "Reviewer",
+      "startDate": "2026",
+      "endDate": "",
+      "summary": "Conference reviewer.",
+      "highlights": []
+    },
+    {
+      "organization": "EMNLP 2026",
+      "position": "Reviewer",
+      "startDate": "2026",
+      "endDate": "",
+      "summary": "Conference reviewer.",
+      "highlights": []
+    }
+  ]
 }

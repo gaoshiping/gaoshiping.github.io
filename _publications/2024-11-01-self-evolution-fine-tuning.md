@@ -1,5 +1,6 @@
 ---
 title: "Self-Evolution Fine-Tuning for Policy Optimization"
+authors: "Ruijun Chen, Jiehao Liang, **Shiping Gao**, Fanqi Wan, Xiaojun Quan"
 collection: publications
 category: conferences
 permalink: /publication/2024-self-evolution-fine-tuning

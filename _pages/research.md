@@ -12,7 +12,7 @@ Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimi
 
 **Internship, University of California, Davis**  
 Supervised by Prof. Lifu Huang  
-Jul 2025 - Dec 2025
+Jul 2025 - Jan 2026
 
 - Developed an Implicit Prefix-Value Reward Model (IPVRM) with value-function-style supervision on every prefix, reducing the training-inference inconsistency of prior implicit process reward models.
 - Preserved the efficiency of implicit reward models while improving erroneous-step detection on math reasoning tasks, enabling a 0.6B model to reach performance comparable to 7B process reward models.

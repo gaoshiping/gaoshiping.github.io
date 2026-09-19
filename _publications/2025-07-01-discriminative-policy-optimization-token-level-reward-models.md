@@ -1,5 +1,6 @@
 ---
 title: "Discriminative Policy Optimization for Token-Level Reward Models"
+authors: "Hongzhan Chen, Tao Yang, **Shiping Gao**, Ruijun Chen, Xiaojun Quan, Hongtao Tian, Ting Yao"
 collection: publications
 category: conferences
 permalink: /publication/2025-discriminative-policy-optimization-token-level-reward-models

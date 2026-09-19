@@ -1,5 +1,6 @@
 ---
 title: "Edit-Wise Preference Optimization for Grammatical Error Correction"
+authors: "Jiehao Liang, Haihui Yang, **Shiping Gao**, Xiaojun Quan"
 collection: publications
 category: conferences
 permalink: /publication/2025-edit-wise-preference-optimization
