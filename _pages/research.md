@@ -7,6 +7,16 @@ author_profile: true
 
 My research centers on preference alignment, reward modeling, reinforcement learning from feedback, and reasoning in large language models.
 
+Questioning the Questions: Sustaining Self-Evolution in Reasoning Models
+======
+
+**Research Collaborator, Washington University in St. Louis**  
+With Prof. Jiaxin Huang  
+Sep 2026 - Present
+
+- Contributed to R-Quest, which sustains questioner-solver self-evolution by turning solver-judged validity and frozen-model novelty into questioner rewards and data filters.
+- R-Quest achieves the best average on 12 benchmarks, +17.32 over R-Zero.
+
 Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization
 ======
 

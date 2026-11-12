@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="{{ base_path }}/files/CV-Shiping-Gao.pdf" class="btn btn--primary"><i class="fa fa-file-pdf" aria-hidden="true"></i> Download CV (PDF, updated Aug 2026)</a></p>
+<p><a href="{{ base_path }}/files/CV-Shiping-Gao.pdf" class="btn btn--primary"><i class="fa fa-file-pdf" aria-hidden="true"></i> Download CV (PDF, updated Nov 2026)</a></p>
 
 Contact
 ======
@@ -25,7 +25,7 @@ Education
   Sep 2026 - Jun 2030 (Expected)
 
 - **Sun Yat-Sen University**, Guangzhou, China<br>
-  MPhil in Computer Science and Technology, GPA: 89.84/100<br>
+  MEng in Computer Science and Technology, GPA: 89.84/100<br>
   Sep 2023 - Jun 2026
 
 - **Lanzhou University**, Lanzhou, China<br>
@@ -46,8 +46,20 @@ Publications
   {% include publication-item.html %}
 {% endfor %}</div>
 
+Manuscripts Under Review
+======
+
+- J. Li, C. Huang, L. Huang, D. Cai, **S. Gao**, Y. Yang, J. Huang. "Questioning the Questions: Sustaining Self-Evolution in Reasoning Models." Under review at ICLR 2027.
+- D. He, Z. Yuan, **S. Gao**, M. Sun, X. Lin, J. Zhang, Z. Wang. "Overture: Efficient MoE Serving on Confidential GPUs via Pipelined and Selective Expert Transfers." Under review at EuroSys.
+
 Research Experience
 ======
+
+**Questioning the Questions: Sustaining Self-Evolution in Reasoning Models**<br>
+Research collaborator, Washington University in St. Louis; with Prof. Jiaxin Huang<br>
+Sep 2026 - Present
+
+- Contributed to R-Quest, which sustains questioner-solver self-evolution by turning solver-judged validity and frozen-model novelty into questioner rewards and data filters; best average on 12 benchmarks, +17.32 over R-Zero.
 
 **Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization**<br>
 Internship, University of California, Davis; supervised by Prof. Lifu Huang<br>
@@ -93,7 +105,7 @@ May 2021 - Oct 2021
 Academic Service
 ======
 
-- **Reviewer:** NeurIPS 2026, EMNLP 2026
+- **Reviewer:** NeurIPS 2026, EMNLP 2026, Applied Intelligence (Springer)
 
 Teaching
 ======

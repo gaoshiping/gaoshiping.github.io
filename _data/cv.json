@@ -28,6 +28,16 @@
   },
   "work": [
     {
+      "company": "Washington University in St. Louis",
+      "position": "Research Collaborator",
+      "startDate": "Sep 2026",
+      "endDate": "Present",
+      "summary": "Questioning the Questions: Sustaining Self-Evolution in Reasoning Models. With Prof. Jiaxin Huang.",
+      "highlights": [
+        "Contributed to R-Quest, which turns solver-judged validity and frozen-model novelty into questioner rewards and data filters."
+      ]
+    },
+    {
       "company": "University of California, Davis",
       "position": "Research Intern",
       "startDate": "Jul 2025",
@@ -107,7 +117,7 @@
     },
     {
       "institution": "Sun Yat-Sen University",
-      "area": "MPhil in Computer Science and Technology",
+      "area": "MEng in Computer Science and Technology",
       "studyType": "",
       "startDate": "Sep 2023",
       "endDate": "Sep 2023 - Jun 2026",
